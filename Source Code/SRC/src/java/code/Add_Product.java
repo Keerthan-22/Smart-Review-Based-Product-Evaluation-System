@@ -72,7 +72,7 @@ public class Add_Product extends HttpServlet {
                         String name = item.getFieldName();
                         //System.out.println("name: "+name+'\n');
                         value = item.getString();
-                        // System.out.println("value: "+value);
+                        // .System.out.println("value: "+value);
                         al.add(value);
                         for (int i = 0; i < al.size(); i++) {
                             sss += al.get(i);
