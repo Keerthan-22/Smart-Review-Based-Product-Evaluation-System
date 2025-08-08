@@ -37,7 +37,7 @@ This project is a web-based application developed to explore and analyze product
 3. **Open the project in NetBeans IDE**  
 4. Configure database connection in the Java files (if required)  
 5. **Deploy the project to Apache Tomcat server**  
-6. Visit `http://localhost:8080/YourProjectName` to run
+6. Visit `http://localhost:8080/YourProjectName` to run.
 
 ---
 
